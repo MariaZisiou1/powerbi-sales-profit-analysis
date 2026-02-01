@@ -48,13 +48,19 @@ It was created as a junior data analyst portfolio project to practice real-world
 - Sales trend over time
 - Discount vs Profit Margin scatter plot
 
+<img src="images/overall_performance.png" width="600"/>
+
 ### Page 2 – Product Performance
 - Profitability by category and sub-category
 - Bottom 10 products by profit to highlight loss-making items
 
+<img src="images/products_profitability.png" width="600"/>
+
 ### Page 3 – Regional Performance
 - Profit analysis by region
 - Summary insights
+
+<img src="images/regional_sales.png" width="600"/>
 
 ---
 
